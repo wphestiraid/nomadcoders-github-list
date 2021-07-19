@@ -66,6 +66,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [이민찬](https://nomadcoders.co/users/shigatsu970704)       | 이민찬          | [@ShigatsuEl](https://github.com/ShigatsuEl)           |
 | [친슈](https://nomadcoders.co/users/koreanjs)               | 친슈            | [@Achelous1](https://github.com/Achelous1)             |
 | [홍상혁](https://nomadcoders.co/users/ghdtkdgur123)         | 햇반 홍         | [@shhong7757](https://github.com/shhong7757)           |
+| [Henry](https://nomadcoders.co/users/vanillalattejs)         | vanillaLatteJS         | [@devgony](https://github.com/devgony)           |
 |                                                             | 2eoseo          | [@2eoseo](https://github.com/md2eoseo)                 |
 |                                                             | Aaron Lee       | [@aaronLab](https://github.com/aaronLab)               |
 |                                                             | bamba ba        | [@babamba](https://github.com/babamba)                 |
