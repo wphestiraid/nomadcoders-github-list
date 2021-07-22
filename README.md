@@ -38,6 +38,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 | [clomia](https://nomadcoders.co/users/clomia)               | clomia          | [@clomia](https://github.com/clomia)                   |
 | [comographer](https://nomadcoders.co/users/kimgeunmo)       | Comographer     | [@comographer](https://github.com/comographer)         |
 | [Dongryeol LEE](https://nomadcoders.co/users/dongyeol01)    | dongyeol Lee    | [@DRLee98](https://github.com/DRLee98)                 |
+| [emewjiin](https://nomadcoders.co/users/emewjin)            | emewjin         | [@emewjin](https://github.com/emewjin)                 |
 | [hexdrinker](https://nomadcoders.co/users/hexdrinker)       | hexdrinker      | [@hexdrinker](https://github.com/hexdrinker)           |
 | [hy01n](https://nomadcoders.co/users/hobbyhyoin)            | hy01n           | [@hy01n](https://github.com/hy01n)                     |
 | [Hyunjae Sung](https://nomadcoders.co/users/stevy)          | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
